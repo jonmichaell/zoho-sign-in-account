@@ -14,7 +14,7 @@ This guide walks you through how to sign in to your **zoho sign in account**, ho
 
   
 
-.. image:: start.png
+.. image:: sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
